@@ -471,7 +471,8 @@ void printInfo(Queue Q) {
 
 ```
 
-Kode ini merupakan file implementasi yang menangani seluruh operasi queue, mulai dari inisialisasi, pengecekan kondisi kosong dan penuh, proses penambahan dan penghapusan data, hingga penampilan isi queue beserta informasi posisi elemen.#### Full code Screenshot:
+Kode ini merupakan file implementasi yang menangani seluruh operasi queue, mulai dari inisialisasi, pengecekan kondisi kosong dan penuh, proses penambahan dan penghapusan data, hingga penampilan isi queue beserta informasi posisi elemen.
+#### Full code Screenshot:
 <img width="337" height="377" alt="image" src="https://github.com/user-attachments/assets/4f480165-f11a-4bf4-afea-2c491786c7f2" />
 <img width="337" height="377" alt="image" src="https://github.com/user-attachments/assets/5b554de3-e439-4b31-8f55-de50aa8d0192" />
 
