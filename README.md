@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul (8x)</h1>
+# <h1 align="center">Laporan Praktikum Modul (8)</h1>
 <p align="center">Mario Sebastian Barus</p>
 
 ## Dasar Teori
